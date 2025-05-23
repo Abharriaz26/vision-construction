@@ -16,13 +16,13 @@ const Navbar = () => {
           <Link className="nav-link active" aria-current="page" to="/">Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" aria-current="page" to="about">About</Link>
+          <Link className="nav-link active" aria-current="page" to="about">About</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" aria-current="page" to="services">Services</Link>
+          <Link className="nav-link active" aria-current="page" to="services">Services</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" aria-current="page" to="contact">Contact</Link>
+          <Link className="nav-link active" aria-current="page" to="contact">Contact</Link>
         </li>
       </ul>
     </div>
@@ -30,7 +30,7 @@ const Navbar = () => {
      {/* Header */}
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
-          <span className="navbar-brand h1 mb-0">VISION CONSTRUCTION NY, INC.</span>
+          <span className="navbar-brand h1 mb-0">VISION CONSTRUCTION BX, INC.</span>
         </div>
       </nav>
 </nav>

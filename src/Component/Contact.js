@@ -39,12 +39,12 @@ const Contact = () => {
         </div>
       </div>
        <div className="about-footer">
-      <p>Thank you for considering Vision Construction NY Inc. for your construction needs. We look forward to working with you!</p>
+      <p>Thank you for considering Vision Construction BX Inc. for your construction needs. We look forward to working with you!</p>
     </div>
 
       {/* Footer */}
       <footer className="bg-dark text-white text-center py-3">
-        &copy; {new Date().getFullYear()} VISION CONSTRUCTION NY, INC. All rights reserved.
+        &copy; {new Date().getFullYear()} VISION CONSTRUCTION BX, INC. All rights reserved.
       </footer>
     </div>
   );

@@ -4,14 +4,15 @@ const About = () => {
   return (
     <div className="about-container">
     <div className="about-header">
-      <h1>Vision Construction NY Inc.</h1>
+      
+      <h1>Vision Construction BX Inc.</h1>
       <p>Your trusted partner in high-quality construction services</p>
     </div>
     
     <div className="about-section">
       <h2>Who We Are</h2>
       <p>
-        Vision Construction NY Inc. is a premier construction company based in the Bronx, dedicated to providing superior construction services to both residential and commercial clients. With years of experience in the industry, we have built a reputation for reliability, quality, and excellence.
+        Vision Construction BX Inc. is a premier construction company based in the Bronx, dedicated to providing superior construction services to both residential and commercial clients. With years of experience in the industry, we have built a reputation for reliability, quality, and excellence.
       </p>
     </div>
 
@@ -37,7 +38,7 @@ const About = () => {
     </div> */}
         {/* Footer */}
       <footer className="bg-dark text-white text-center py-3">
-        &copy; {new Date().getFullYear()} VISION CONSTRUCTION NY, INC. All rights reserved.
+        &copy; {new Date().getFullYear()} VISION CONSTRUCTION BX INC. All rights reserved.
       </footer>
   </div>
 

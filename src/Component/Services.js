@@ -54,7 +54,7 @@ function Services() {
 
       {/* Footer */}
       <footer className="bg-dark text-white text-center py-3">
-        &copy; {new Date().getFullYear()} VISION CONSTRUCTION NY, INC. All rights reserved.
+        &copy; {new Date().getFullYear()} VISION CONSTRUCTION BX, INC. All rights reserved.
       </footer>
     </div>
   )
